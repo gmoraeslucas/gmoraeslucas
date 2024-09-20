@@ -29,12 +29,6 @@
     <img align="center" alt="CSS" height="20" width="30" padding="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS
 </div>
 
-<br>
-
-### Studying in this moment:
-
-<p>Análise e Desenvolvimento de Sistemas - USCS</p>
-
 <hr>
 
 <div align="center">
